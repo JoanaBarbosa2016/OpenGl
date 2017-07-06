@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1466014021 source:c:\users\joana\desktop\computação..grafica\opengl-figuras-geometricas\esfera\main.cpp
+	<windows.h>
+	<gl/glut.h>
+
+1466645667 source:c:\users\joana\desktop\computação..grafica\cubo_esfera\main.cpp
+	<windows.h>
+	<gl/glut.h>
+
+1466645667 source:c:\users\joana\documents\drive\opengl\cubo_esfera\nova pasta\main.cpp
+	<windows.h>
+	<gl/glut.h>
+
